@@ -13,4 +13,4 @@ end
 
 
 at_exit { bot.stop }
-bot.run
+bot.run # runs the bot
