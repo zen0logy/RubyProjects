@@ -9,11 +9,11 @@ All Ruby projects made by **zen0logy**.
 
 ## Overview
 
-This repository contains various Ruby projects that showcase my skills and experiments with the Ruby programming language. Feel free to explore, clone, or contribute!
+This repository contains various projects with the Ruby programming language. Feel free to explore, clone, or contribute!
 
 ## Projects
 
-- [Discord Bot](https://github.com/zen0logy/RubyProjects/tree/main/Discord%20Bot) - Make your custom Discord Bot in Ruby Rails.
+- [Discord Bot](https://github.com/zen0logy/RubyProjects/tree/main/Discord%20Bot) - Custom Discord bot made with Ruby Rails.
 - [Ruby Test](https://github.com/zen0logy/RubyProjects/tree/main/Ruby%20Test) - This is a test project for GitHub with Ruby.
 
 ## Getting Started
