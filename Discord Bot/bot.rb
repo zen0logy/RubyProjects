@@ -1,11 +1,11 @@
 require 'discordrb'
 config = File.foreach('config').map(&:strip)
 
-bottoken = config[0]
-client_id = config[1]
-prefix = config[2]
+# Extra config file with token and prefix
+bottoken = 'YOUR_TOKEN'
+prefix = '!' # You can use special characters for prefix
 
-bot = Discordrb::Commands::CommandBot.new token: bottoken, client_id: client_id, prefix: prefix
+bot = Discordrb::Commands::CommandBot.new token: bottoken, prefix: prefix
 
 bot.command :ping do |msg|
   msg.respond "pong."
